@@ -1,4 +1,5 @@
-def hello():
-    print("hello developper, I am the product owner")
+def hello(name):
+    print("hello developper, I "+ name)
 
-hello()
+hello("Salma")
+
